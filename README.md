@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyuaner
-- 👀 I’m interested in wireless communication and optimal research
+- 👀 I’m interested in optimal research
 - 🌱 I’m currently learning Nonlinear programming and Python
 - 📫 How to reach me cmengmeng42@gmail.com
 
